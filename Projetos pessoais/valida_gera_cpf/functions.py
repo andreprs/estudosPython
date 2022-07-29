@@ -120,7 +120,7 @@ def gerar() -> str:
         for t in range(11):
             temp = randint(0, 9)
             cpf_gerado += str(temp)
-        
+    
         if validar(cpf_gerado):
             valido = True
     return formatar(cpf_gerado)
