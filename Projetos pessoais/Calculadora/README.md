@@ -16,4 +16,4 @@ divisão e exponenciação). Assim adicionei as seguintes funções:
 * Fatorial de um número.
 
 ## Funcionamento
-![Funcionamento da calculadora](https://imgur.com/gallery/uRm266f)
+![Funcionamento da calculadora](https://i.imgur.com/982WOM7.gif)
